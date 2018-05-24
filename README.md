@@ -12,11 +12,11 @@ This is based on your boilerplate so you already know how to:
 
 Build our circular score indicator - done
 It took me about 2h to fiddle around this. I've build a component with reusability in mind so the following task should be easy to do.
-But at this point I'm commiting it to see a first 'milestone' ;)
+But at this point I'm commiting it to mark this as a 'milestone' ;)
 
 ## The AC's
 
-Nope, because to be very accurate use data correctly, structure it all, etc... this is not a 2h task.
+Nope, because to be very accurate, use data correctly, structure it all, etc... this is not a 2h task. I did however build component with reusability in mind and utilised React life cycle methods to reset/restart sequence on demand. So that should be fairly eeasy.
 
 ### Stretch goal
 
@@ -25,4 +25,7 @@ But I wanted to show you ability to think out of the box and provide solution th
 
 ### Unit test
 Covered to demonstrate how easy is to unit test above solution
+
+### Notes
+Please keep in mind for a given time I wasn't concerned about crossbrowser compatibility and I am aware of IE issues with blured image not working correctly. Work arounds are known to cover IE 11+ but again, not in this time scale. Wanted to get something tengible first.
 
