@@ -1,0 +1,15 @@
+body {
+  background: no-repeat top;
+  background-size: cover;
+  background-image: url('/background--dashboard.png');
+}
+
+.widget {
+  margin: 130px auto;
+  border-style: solid;
+  border-width: thin;
+  border-color: rgba(255, 255, 255, 0.3);
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+}
